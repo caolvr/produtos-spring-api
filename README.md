@@ -11,7 +11,7 @@ O projeto consiste em utilizar a modelagem de arquitetura API REST com Spring Bo
 ## Criando o build da aplicação
 - Na pasta do projeto, abra o terminal e execute o comando abaixo para buildar e instalar o projeto:
 <blockquote>
-mvn install -DskipTests
+mvn install 
 </blockquote>
 
 ## Consumindo a API
