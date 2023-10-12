@@ -1,5 +1,5 @@
 <h1 align="center">produtos-spring</h1>
-O projeto consiste em utilizar a modelagem de arquitetura API REST com Spring Boot e Java para gerenciamento de um estoque de produtos.
+API REST desenvolvida em Java + Spring Boot para gerenciamento de um estoque de produtos.
 
 ## Desenvolvimento
 - Setup inicial de projeto com o Spring Boot Initializr.
